@@ -1,0 +1,2 @@
+def fund():
+    return None
